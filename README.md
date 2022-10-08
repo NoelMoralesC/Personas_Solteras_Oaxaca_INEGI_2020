@@ -1,2 +1,2 @@
-# Proyecto_DEVF
-Con datos del DENUE de la INEGI se realiza una exploracion general de los datos sobre empresas agricolas en Mexico, 2020
+# Personas Solteras en el Estado de Oaxaca con datos del INEGI 2020
+Con datos del INEGI 2020, se realizo un mapa con personas solteras de 12 años y mas
